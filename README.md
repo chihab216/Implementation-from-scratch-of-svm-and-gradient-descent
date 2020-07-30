@@ -8,6 +8,7 @@ We implement some svm with different parameter
 we want to find the minimum of a function
 ### the three stop conditions used are:
 -norm of the gradient inferior than an epsilone of the order 10E-8
+
 -norm of xk+1 - xk inferior than an epsilone of the order 10E-8
 -norm of f(xk+1) - f(xk) inferior than an epsilone of the order 10E-8
 ### We tried:
