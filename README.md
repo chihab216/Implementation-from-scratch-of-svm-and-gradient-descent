@@ -1,7 +1,7 @@
 # Implementation-from-scratch-of-svm-and-gradient-descent
 class project
 
-## For the support vector machine implémentation we used a simple binary classification probleme to solve
+## For the support vector machine implementation from scratch we used a simple binary classification probleme to solve
 We implement some svm with different parameter 
 
 ## For the gradient descent
